@@ -1,4 +1,3 @@
-# BLENDED_LEARNING
 #  EXP-04 Implementation of Stochastic Gradient Descent SGD Regressor
 
 ## AIM:
